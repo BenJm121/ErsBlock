@@ -28,6 +28,8 @@ public class ErsBlockGame extends GameMenu {
     public static int selfFail=0;
     public static int otherFail=0;
 
+    
+
     public ErsBlockGame(String title) {
         super(title);
         setSize(315,392);
